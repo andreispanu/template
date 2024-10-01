@@ -20,16 +20,15 @@ function App() {
     <ThemeProvider theme={theme}>
        <CssBaseline />
        <Router>
-       <Navigation />
-      <PageLayout>
-       
-        <Routes>
-          <Route path="/form" element={<SignupForm />} />
-          <Route path="/test" element={<TestPage />} />
-          <Route path="/" element={<HomePage />} />
-        </Routes>
-      </PageLayout>
-    </Router>
+        <Navigation />
+        <PageLayout>
+          <Routes>
+            <Route path="/form" element={<SignupForm />} />
+            <Route path="/test" element={<TestPage />} />
+            <Route path="/" element={<HomePage />} />
+          </Routes>
+        </PageLayout>
+      </Router>
     </ThemeProvider>
   );
 }

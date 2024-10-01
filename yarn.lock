@@ -1267,6 +1267,11 @@
   resolved "https://registry.yarnpkg.com/@csstools/selector-specificity/-/selector-specificity-2.2.0.tgz#2cbcf822bf3764c9658c4d2e568bd0c0cb748016"
   integrity sha512-+OJ9konv95ClSTOJCmMZqpd5+YGsB2S+x6w3E1oaM8UuR5j8nTNHYSz8c9BEPGDOCMQYIEEGlVPj/VY64iTbGw==
 
+"@cypress/react18@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@cypress/react18/-/react18-2.0.1.tgz#7bc6d9b557fd6a516a690996946092b12abbd3f9"
+  integrity sha512-T/bhFEvVDIu0lDOKXbEQqVEmmANKWc/pyFDyDoJw3OndRYv9QVEJSsE/VNXIaOQLDjWvQkKBOwd0lLe1hWF/Zg==
+
 "@cypress/request@^3.0.4":
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/@cypress/request/-/request-3.0.5.tgz#d893a6e68ce2636c085fcd8d7283c3186499ba63"

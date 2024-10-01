@@ -4,7 +4,7 @@ import { StyledListItem, StyledNavigationContainer, StyledUnorderedList } from '
 
 const Navigation = () => {
   return (
-    <StyledNavigationContainer>
+    <StyledNavigationContainer data-testid="navigation-container">
           <StyledUnorderedList>
           <StyledListItem>
               <Link to="/">Home</Link>
