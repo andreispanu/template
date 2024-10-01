@@ -1,11 +1,7 @@
 {
     "compilerOptions": {
       "target": "es5",
-      "lib": ["es5", "dom"],
-      "jsx": "react",  // Add this to support JSX
-      "esModuleInterop": true,
-      "allowSyntheticDefaultImports": true,
-      "moduleResolution": "node"
+      "lib": ["es5", "dom"]
     },
-    "include": ["**/*.ts", "**/*.tsx"]
+    "include": ["**/*.ts"]
   }
